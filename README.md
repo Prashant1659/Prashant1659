@@ -1,10 +1,10 @@
 ## Hi there 👋
-<h1 align="center"> Yo!!! I'm Ananya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Yo!!! I'm Prashant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/ananya-gupta-30aa9b28b/"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
+  <a href="https://www.linkedin.com/in/swamiprashant23/"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Prashant Linkedin" height='20' width='90'/>
   </a>
-  <a href="https://github.com/ananyag309"> 
+  <a href="https://github.com/Prashant1659"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
   </a>
 </p>
@@ -19,17 +19,17 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyag309&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananyag309&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananyag309&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananyag309&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananyag309&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashant1659&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prashant1659&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prashant1659&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prashant1659&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prashant1659&theme=github_dark" />
 </div>
 
 <br>
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ananyag309&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prashant1659&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 
 <br>
