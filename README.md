@@ -2,9 +2,9 @@
 <h3 align="center">Backend Developer | C++ | Node.js | Express.js | MERN Stack</h3>
 
 <p align="center">
-  <a href="https://github.com/Prashant1659">
+  <!-- <a href="https://github.com/Prashant1659">
     <img src="https://komarev.com/ghpvc/?username=Prashant1659&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/swamiprashant23/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-swamiprashant23-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
